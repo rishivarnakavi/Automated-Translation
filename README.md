@@ -1,4 +1,4 @@
-# Machine Translation for Subtitles
+# Automated Translation for Subtitles
 Machine translation using sequence-to-sequence modeling technique using RNN to translate from Spanish to English language.
 
 ## Installation
